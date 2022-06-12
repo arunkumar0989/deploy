@@ -1,0 +1,19 @@
+{
+  "name": "preparation_views",
+  "version": "1.0.0",
+  "description": "views project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "villa",
+    "views"
+  ],
+  "author": "Arun Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
